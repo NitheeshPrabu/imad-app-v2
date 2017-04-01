@@ -1,0 +1,23 @@
+<div class="container">
+              <div>
+                  <a href="/">Home</a>
+              </div>
+              <hr>
+              <h3>
+                  Article One
+              </h3>
+              <div>
+                  Wed Mar 15 2017
+              </div>
+              <div>
+                <p>
+This is my first article. This is my first article. This is my first article. This is my first article. This is my first article.
+</p>
+              </div>
+              <hr>
+              <h4>Comments</h4>
+              <div id="comment_form">
+              </div>
+              <div id="comments"><div class="comment">
+                        
+              </div>
